@@ -1,5 +1,5 @@
 ## Setup and use
--- This is all completely made by effort of Ahmed Hesham Alashi ...
+-- This is all completely made by effort of Ahmed Hesham Alashi ...\n
 First, be sure to have Nodejs installed on your machine.
 
 Next, install all the needed packages:
